@@ -3,10 +3,10 @@ GEO676 Spring '25 Online
 
 | Labs  |
 |:-------:|
-|[Lab_1](Lab_1/README.md)|
-|[Lab 2](Lab 2/README.md)|
-|[Lab 3](Lab 3/README.md)|
-|[Lab 4](Lab 4/README.md)|
-|[Lab 5](Lab 5/README.md)|
-|[Lab 6](Lab 6/README.md)|
-|[Lab 7](Lab 7/README.md)|
+|[Lab 1](Lab1/README.md)|
+|[Lab 2](Lab2/README.md)|
+|[Lab 3](Lab3/README.md)|
+|[Lab 4](Lab4/README.md)|
+|[Lab 5](Lab5/README.md)|
+|[Lab 6](Lab6/README.md)|
+|[Lab 7](Lab7/README.md)|
