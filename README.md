@@ -1,4 +1,4 @@
-# Tahimik-online-GEOG676-spring2025
+# Tahimik GEOG676 Spring 2025
 GEO676 Spring '25 Online
 
 | Labs  |
