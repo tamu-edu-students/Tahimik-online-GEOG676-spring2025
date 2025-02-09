@@ -5,7 +5,7 @@ GEO676 Spring '25 Online
 |:-------:|
 |[Lab 1](Lab1/README.md)|
 |[Lab 2](Tahimik_Lab2.py)|
-|[Lab 3](Lab3/README.md)|
+|[Lab 3](Tahimik_Lab3.py)|
 |[Lab 4](Lab4/README.md)|
 |[Lab 5](Lab5/README.md)|
 |[Lab 6](Lab6/README.md)|
